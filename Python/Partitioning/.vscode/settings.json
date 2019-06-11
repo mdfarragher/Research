@@ -1,0 +1,13 @@
+{
+    // use python3 interpreter
+    "python.pythonPath": "/usr/local/bin/python3",
+
+    // switch to the pep8 linter
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+
+    // ignore 'line too long' error
+    "python.linting.pep8Args": [
+         "--ignore=E501"
+    ]
+}
