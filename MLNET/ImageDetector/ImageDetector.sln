@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDetector", "ImageDetector.csproj", "{2BF2FF01-C8DA-4980-907B-9B796BA24198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BF2FF01-C8DA-4980-907B-9B796BA24198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF2FF01-C8DA-4980-907B-9B796BA24198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF2FF01-C8DA-4980-907B-9B796BA24198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF2FF01-C8DA-4980-907B-9B796BA24198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
